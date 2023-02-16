@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-image: url(https://static.ricmais.com.br/uploads/2022/01/macaco-prego-scaled.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.titulo {
+
+    font-size: 200px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+.texto {
+
+
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 350px;
+    font-family: 'Roboto', sans-serif;
+
+}
